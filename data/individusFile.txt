@@ -1,0 +1,29 @@
+Je suis Dupont6 Jack66 je pèse 80kg, je mesure 178cm,  je suis né le Wed Nov 15 08:00:12 CET 2000 à BAMAKO et j'aime SKI, CINEMA, PROGRAMMATION, CUISINE, RANDONNÉE, LECTURE
+Je suis Dupont2 Jack38 je pèse 91kg, je mesure 176cm,  je suis né le Wed Oct 10 07:00:12 CET 1956 à TOKYO et j'aime SKI, JEUX_VIDEO, RANDONNÉE, SPORT
+Je suis Dupont0 Jack15 je pèse 94kg, je mesure 183cm,  je suis né le Sun Jul 20 18:00:12 CET 1975 à NAIROBI et j'aime PROGRAMMATION, CINEMA, SKI
+Je suis Dupont0 Jack62 je pèse 82kg, je mesure 187cm,  je suis né le Sun Aug 08 17:00:12 CET 1915 à TBILISSI et j'aime CUISINE, LECTURE
+Je suis Dupont1 Jack1 je pèse 69kg, je mesure 155cm,  je suis né le Wed Dec 16 14:00:02 CET 1908 à BAMAKO et j'aime RANDONNÉE, CUISINE, PROGRAMMATION
+Je suis Dupont1 Jack50 je pèse 90kg, je mesure 160cm,  je suis né le Tue Jun 12 21:00:02 CEST 1934 à NAIROBI et j'aime JEUX_VIDEO, SPORT, CUISINE
+Je suis Dupont2 Jack65 je pèse 62kg, je mesure 155cm,  je suis né le Tue Sep 09 18:00:02 CET 1958 à CARACAS et j'aime JEUX_VIDEO, RANDONNÉE
+Je suis Dupont0 Jack3 je pèse 67kg, je mesure 193cm,  je suis né le Tue Jul 10 13:00:02 CEST 1934 à PARIS et j'aime CINEMA, RANDONNÉE, JEUX_VIDEO, LECTURE
+Je suis Dupont5 Jack77 je pèse 80kg, je mesure 182cm,  je suis né le Sun Aug 18 15:00:02 CEST 1985 à MOSCOU et j'aime CINEMA, CUISINE, RANDONNÉE, LECTURE, SPORT
+Je suis Dupont9 Jack26 je pèse 100kg, je mesure 176cm,  je suis né le Tue Dec 13 08:00:15 CET 2005 à MOSCOU et j'aime LECTURE, PROGRAMMATION, SPORT, CUISINE, RANDONNÉE
+Je suis Dupont5 Jack17 je pèse 82kg, je mesure 186cm,  je suis né le Fri Jul 10 07:00:15 CET 1970 à TOKYO et j'aime JEUX_VIDEO, SKI
+Je suis Dupont7 Jack30 je pèse 81kg, je mesure 184cm,  je suis né le Fri Feb 11 18:00:15 CET 1910 à BAMAKO et j'aime CINEMA
+Je suis Dupont9 Jack70 je pèse 63kg, je mesure 161cm,  je suis né le Sat Apr 11 00:00:15 CEST 1992 à TOKYO et j'aime CUISINE, SPORT, SKI, LECTURE
+Je suis Dupont1 Jack47 je pèse 90kg, je mesure 151cm,  je suis né le Sat Apr 14 06:00:15 CET 1906 à MOSCOU et j'aime RANDONNÉE, SPORT, JEUX_VIDEO
+Je suis Dupont1 Jack57 je pèse 88kg, je mesure 194cm,  je suis né le Tue Oct 09 20:00:05 CET 1962 à CARACAS et j'aime CINEMA, SPORT, JEUX_VIDEO
+Je suis Dupont5 Jack73 je pèse 72kg, je mesure 195cm,  je suis né le Sat Jan 11 04:00:05 CET 2003 à BAMAKO et j'aime JEUX_VIDEO
+Je suis Dupont1 Jack67 je pèse 98kg, je mesure 163cm,  je suis né le Thu Jun 19 20:00:05 CEST 1941 à LOS_ANGELES et j'aime PROGRAMMATION, SPORT, LECTURE, JEUX_VIDEO, SKI, RANDONNÉE
+Je suis Dupont4 Jack22 je pèse 62kg, je mesure 155cm,  je suis né le Thu Sep 01 05:00:05 CET 1955 à LOS_ANGELES et j'aime SPORT
+Je suis Dupont4 Jack79 je pèse 84kg, je mesure 157cm,  je suis né le Tue Dec 01 06:00:05 CET 1964 à TOKYO et j'aime SPORT, SKI, CUISINE, LECTURE
+Je suis Dupont1 Jack11 je pèse 84kg, je mesure 186cm,  je suis né le Sat Oct 18 04:00:17 CET 1902 à TOKYO et j'aime JEUX_VIDEO, SKI, CINEMA, SPORT, RANDONNÉE, LECTURE
+Je suis Dupont2 Jack13 je pèse 90kg, je mesure 157cm,  je suis né le Sun Feb 08 03:00:17 CET 1953 à TOKYO et j'aime LECTURE
+Je suis Dupont4 Jack39 je pèse 84kg, je mesure 151cm,  je suis né le Sun Dec 08 08:00:17 CET 1929 à MOSCOU et j'aime JEUX_VIDEO, RANDONNÉE, PROGRAMMATION
+Je suis Dupont9 Jack13 je pèse 92kg, je mesure 180cm,  je suis né le Fri Aug 19 12:00:17 CEST 1994 à PARIS et j'aime CINEMA, PROGRAMMATION, LECTURE, CUISINE, SPORT, SKI
+Je suis Dupont3 Jack11 je pèse 62kg, je mesure 168cm,  je suis né le Tue Oct 19 04:00:17 CET 1909 à NAIROBI et j'aime SPORT, JEUX_VIDEO, SKI, CINEMA, LECTURE
+Je suis Dupont5 Jack20 je pèse 72kg, je mesure 183cm,  je suis né le Fri Sep 06 19:00:16 CEST 1918 à TOKYO et j'aime PROGRAMMATION, SKI, CUISINE
+Je suis Dupont1 Jack62 je pèse 77kg, je mesure 170cm,  je suis né le Sat Jun 09 19:00:16 CET 1973 à LOS_ANGELES et j'aime LECTURE
+Je suis Dupont9 Jack49 je pèse 60kg, je mesure 177cm,  je suis né le Mon Nov 15 12:00:16 CET 1909 à NAIROBI et j'aime RANDONNÉE, PROGRAMMATION
+Je suis Dupont0 Jack97 je pèse 80kg, je mesure 157cm,  je suis né le Sat Jul 14 01:00:16 CEST 1928 à LOS_ANGELES et j'aime PROGRAMMATION, SKI, LECTURE, RANDONNÉE
+Je suis Dupont6 Jack53 je pèse 99kg, je mesure 155cm,  je suis né le Fri Mar 06 16:00:16 CET 1908 à BAMAKO et j'aime CINEMA, RANDONNÉE, SPORT, SKI
